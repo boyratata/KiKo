@@ -1,5 +1,5 @@
 <h1>
-    <img src="Images/logo/logo.png" height="32" alt="logo"/>
+    <img src="images/logo/logo.png" height="32" alt="logo"/>
     Kliko's modding tool
 </h1>
 
