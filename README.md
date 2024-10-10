@@ -3,7 +3,7 @@
     Kliko's modding tool
 </h1>
 
-This project is a personal endeavor aimed at improving and enhancing its functionality. While I am still in the process of development, I want to emphasize that this is an original creation, not a copy of any existing website.
+I'm working on a personal project to enhance a modding tool I forked. I'm still in the development phase, but I'm excited to focus on adding original features and improvements to make the user experience even better.
 
 ## Goals
 
